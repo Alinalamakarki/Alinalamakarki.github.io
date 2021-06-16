@@ -700,6 +700,12 @@ h2 {
     .feed-caro {
       padding-top: 95px; } }
 
+.feed-cara {
+  padding-top: 36px; }
+  @media (max-width: 99px) {
+    .feed-cara {
+      padding-top: 95px; } }
+
 .social-links {
   margin-top: 20px; }
   .social-links ul li {
